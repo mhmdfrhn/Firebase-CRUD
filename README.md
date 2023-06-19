@@ -1,2 +1,5 @@
-# Firebase-CRUD
-React Firebase integration
+# Admin Firebase Integration
+
+#### Description:
+
+Implement CRUD Operation using firebase
