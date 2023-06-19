@@ -2,4 +2,6 @@
 
 #### Description:
 
-Implement CRUD Operation using firebase
+Learn implement CRUD Operation using firebase at admin panel dasboard
+
+![dashboard-img](/src/assets/Admin-Panel.png)
